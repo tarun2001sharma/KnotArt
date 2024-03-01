@@ -88,3 +88,16 @@ python main.py --renderer_type capsule --num_samp 100
   </tr>
 </table>
 
+
+## Citing
+
+If you find KnotArt useful in your research, please consider citing:
+
+```bibtex
+@article{gangopadhyay2023searchmeknot,
+  title={Search Me Knot, Render Me Knot: Embedding Search and Differentiable Rendering of Knots in 3D},
+  author={Gangopadhyay, Aalok and Gupta, Paras and Sharma, Tarun and Singh, Prajwal and Raman, Shanmuganathan},
+  journal={arXiv preprint arXiv:2307.08652},
+  year={2023}
+}
+```
