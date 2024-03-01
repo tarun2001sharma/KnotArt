@@ -101,3 +101,16 @@ If you find KnotArt useful in your research, please consider citing:
   year={2023}
 }
 ```
+
+
+
+```markdown
+## Authors and Contributions
+
+- Aalok Gangopadhyay - [GitHub Profile](https://github.com/aalok1993)
+- Paras Gupta - [GitHub Profile](https://github.com/paras-gupt)
+- Tarun Sharma - [GitHub Profile](https://github.com/tarun2001sharma)
+- Prajwal Singh - [GitHub Profile](https://github.com/prajwalsingh)
+- Shanmuganathan Raman - [GitHub Profile](https://github.com/shanmuganathan)
+
+For detailed contributions, please refer to the paper.
