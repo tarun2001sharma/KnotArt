@@ -56,6 +56,9 @@ For running with the capsule renderer
 ```
 python main.py --renderer_type capsule --num_samp 100
 ```
+## Dataset
+
+We introduce a novel dataset comprising multiple target images and their corresponding viewing configurations, designed specifically for evaluating knot-based inverse perceptual art. The dataset, along with loading scripts, is available under the `dataset` directory.
 
 ## Results
 
@@ -104,13 +107,15 @@ If you find KnotArt useful in your research, please consider citing:
 
 
 
-```markdown
+
 ## Authors and Contributions
 
 - Aalok Gangopadhyay - [GitHub Profile](https://github.com/aalok1993)
 - Paras Gupta - [GitHub Profile](https://github.com/paras-gupt)
-- Tarun Sharma - [GitHub Profile](https://github.com/tarun2001sharma)
+- Tarun Sharma - [GitHub Profile](https://github.com/tarunsharma)
 - Prajwal Singh - [GitHub Profile](https://github.com/prajwalsingh)
 - Shanmuganathan Raman - [GitHub Profile](https://github.com/shanmuganathan)
+
+For detailed contributions, please refer to the paper.
 
 For detailed contributions, please refer to the paper.
